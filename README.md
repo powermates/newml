@@ -1,3 +1,8 @@
+(this is only a test repo, nothing interesting to see here)
+
+
+
+
 # Template for Python projects
 
 This project contains a template for Python apps that implement training and
